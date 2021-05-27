@@ -28,7 +28,8 @@ namespace Monitoring
                     int counter = 0;
                     while (true)
                     {
-                        Console.WriteLine("Output via Console: " + logger.IsDebugEnabled.ToString());
+                        counter++;
+                        Console.WriteLine("Output via Console: " + counter);
                         Thread.Sleep(2000);
                         logger.Info("Thread is Running as Info: " + counter);
                         Thread.Sleep(1000);

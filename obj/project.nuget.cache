@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lddXDxwhiPUWM6yihXc8uUw+kSb4U8g8xldT4WSPYBCxZ6K4WrTpfMozb4Rz0fSpjT3hlnWP9sZew5jtAQ6Q7A==",
+  "dgSpecHash": "PUSIC5IO5mSoX+o/iLRITrj4Pev7ODY0oRe/fQvWVIIdyd/TwUyyGyV4jwDgU/rLLsz98oQNIIXHASFykII2LA==",
   "success": true,
-  "projectFilePath": "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\Monitoring.csproj",
+  "projectFilePath": "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\Monitoring.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vkling\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\vkling\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

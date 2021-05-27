@@ -22,22 +22,19 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Example Implementation of NLog with Fluentd-elasticsearch-Kibana
+Example Implementation of NLog with Fluent-bit
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 ```
 docker-compose up -d --build
 ```
-kibana starts with:
 
-```
-http://localhost:5601/
-```
+via the log of the console, can be seen the output
 
 ### Prerequisites
 
-set the right address of the fluentd Container in the the nlog.config file:
+set the right address of the fluent-bit Container in the the nlog.config file:
 - target->host
 
 you get the network address by executing:

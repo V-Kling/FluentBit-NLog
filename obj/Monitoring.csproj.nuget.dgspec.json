@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\Monitoring.csproj": {}
+    "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\Monitoring.csproj": {}
   },
   "projects": {
-    "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\Monitoring.csproj": {
+    "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\Monitoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\Monitoring.csproj",
+        "projectUniqueName": "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\Monitoring.csproj",
         "projectName": "Monitoring",
-        "projectPath": "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\Monitoring.csproj",
+        "projectPath": "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\Monitoring.csproj",
         "packagesPath": "C:\\Users\\vkling\\.nuget\\packages\\",
-        "outputPath": "C:\\Entwicklung\\IIoT\\Fluentd-NLog\\obj\\",
+        "outputPath": "C:\\Entwicklung\\IIoT\\FluentBit-NLog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Appl\\Microsoft Visual Studio\\Shared\\NuGetPackages",
